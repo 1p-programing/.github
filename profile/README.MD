@@ -1,7 +1,7 @@
 # 1P Programowanie
 
 **Lang** <br>
-[English](https://github.com/1p-programing/.github/profile/README-ENGLISH.MD), Polski
+[English](https://github.com/1p-programing/.github/blob/main/profile/README_ENGLISH.MD), Polski
 
 ## About
 Repozytoria stworzone na tym koncie sa przeznaczone do nauki programowania 
